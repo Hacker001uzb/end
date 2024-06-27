@@ -1,0 +1,73 @@
+.ilets{
+   color: black;
+   margin-right: 20px;
+}
+.seven{
+    font-family: DM Sans;
+font-size: 48px;
+font-weight: 500;
+line-height: 50px;
+letter-spacing: -0.04em;
+text-align: left;
+color: black;
+
+}
+.box{
+    font-family: DM Sans;
+font-size: 18px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.04em;
+text-align: left;
+margin-top: -50px;
+color: black
+;
+
+}
+.input{
+    width: 355px;
+height: 48px;
+gap: 0px;
+border-radius: 100px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+
+}
+.image__file{
+    display: flex;
+    margin-top: 170px;
+    margin-left: 350px; 
+    width: 216px;
+    height: 536px;
+
+}
+.pic{
+    margin-top: -65px;
+}
+input{
+    border: none;
+    outline: none;
+    width: 250px;
+    height: 45px;
+    border-radius: 30px; 
+    color: #000;
+    
+}
+
+.wrapper{
+    margin-top: 90px;
+    width: 344px;
+    border-radius: 100px 100px 100px 100px;
+    border: 1px solid #000;
+    padding-left: 20px;
+}
+button{
+    border: none;
+  width: 90px;  
+  height: 50px;
+  border-radius: 35%;
+  background-color:  #FC8A11;
+  border: none;
+
+border-radius: 100px 100px 100px 100px;
+}
